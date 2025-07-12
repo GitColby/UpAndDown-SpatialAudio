@@ -1,3 +1,7 @@
 Video/Take8_R0010410_er.MP4
 Video/Take8_R0010410_er.MP4
 Video/Take8_R0010410_er.MP4
+Video/*.MP4
+*.RPP-bak
+*.DS_Store
+mixes/*.wav
