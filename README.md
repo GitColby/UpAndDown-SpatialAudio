@@ -1,4 +1,3 @@
-# 🎧 UpAndDown–SpatialAudio
 
 A 360° spatial audio and video research project combining ambisonic recording, binaural mixing in Reaper, and immersive production techniques. The project is built around the original track **_Up and Down_**, written and performed by **Colby Weiser** (guitar) and **William Andrea** (vocals).
 
@@ -9,7 +8,7 @@ A 360° spatial audio and video research project combining ambisonic recording, 
 This project explores spatial audio workflows designed for immersive environments like VR and 360° video. It incorporates ambisonic audio captured with a **Sennheiser AMBEO VR mic**, 360° footage captured with a **Ricoh Theta**, and spatial mixing using **Reaper** with custom VSTs and plugins.
 
 ### 🎬 Final Deliverables:
-- A spatial 360° YouTube video (YouTube-ready render)
+- A spatial 360° YouTube video [![Watch the video](https://img.youtube.com/vi/6qshsljUsrQ/hqdefault.jpg)](https://www.youtube.com/watch?v=6qshsljUsrQ)
 - Mastered binaural and stereo mixes
 - A research prototype demonstrating ambisonic-to-binaural rendering techniques
 - Documentation on setup, workflow, and findings
